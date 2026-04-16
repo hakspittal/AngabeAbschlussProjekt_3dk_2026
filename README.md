@@ -4,7 +4,7 @@
 
 ## 📌 Projektüberblick
 
-Ihr entwickelt in 2er-Teams (bzw. evtl. 1 3er-Team) eine Webanwendung mit:
+Ihr entwickelt in 2er-Teams eine Webanwendung mit:
 
 - Java
 - Spring Boot
@@ -39,7 +39,6 @@ Euer Projekt muss enthalten:
 
 - Schüler A → 1:n Beziehung #1
 - Schüler B → 1:n Beziehung #2
-- (eventuell Schüler C → 1:n Beziehung #3)
 
 ### m:n Beziehung (gemeinsam)
 
@@ -74,7 +73,7 @@ Beispiele:
 
 # 👨‍💻 Arbeitsteilung
 
-## 🧑‍🎓 Schüler A/B (eventuell C)
+## 🧑‍🎓 Schüler A/B
 - 1:n Beziehung
 - Entities
 - Repository
@@ -121,7 +120,7 @@ Beispiele:
 
 ## 📂 Ordnerstruktur im Repository
 
-
+```markdown
 /docs
 │
 ├── 00_Start.md
@@ -133,7 +132,7 @@ Beispiele:
 ├── 06_Teamarbeit.md
 ├── 07_Reflexion.md
 └── assets/
-
+```
 
 
 ## 🟢 00_Start.md
@@ -143,7 +142,6 @@ Beispiele:
 ## Team
 - Schüler A
 - Schüler B
-- (Schüler C)
 
 ## Kurzbeschreibung
 [2–3 Sätze]
